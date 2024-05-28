@@ -1,0 +1,7 @@
+../Core/Inc/games/flappybird.c:37:6:FlappyBird_Init	8	static
+../Core/Inc/games/flappybird.c:48:6:FlappyBird_Update	8	static
+../Core/Inc/games/flappybird.c:59:6:FlappyBird_Draw	24	static
+../Core/Inc/games/flappybird.c:77:13:drawBird	16	static
+../Core/Inc/games/flappybird.c:81:13:drawPipe	24	static
+../Core/Inc/games/flappybird.c:86:13:updateGame	8	static
+../Core/Inc/games/flappybird.c:121:13:resetGame	4	static
